@@ -5,4 +5,4 @@ echo "Error: Environment variable \$PYFILE is not set."
 exit 1
 fi
 
-python "$PYFILE"
+python3 "$PYFILE"
